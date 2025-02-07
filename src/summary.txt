@@ -1,0 +1,307 @@
+Summary for TYClient.jar
+Decompiled with CFR 0.152
+
+
+cn.tianyu.client.gui.CustomLoginScreen
+----------------------------
+
+checkAccountOnServer(java.lang.String java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 4 blocks at once
+
+
+net.minecraft.client.audio.SoundHandler
+----------------------------
+
+loadSoundResource(net.minecraft.util.ResourceLocation net.minecraft.client.audio.SoundList )
+  Loose catch block
+
+
+net.minecraft.client.gui.GuiEnchantment
+----------------------------
+
+drawGuiContainerBackgroundLayer(float int int )
+  Unable to fully structure code
+
+
+net.minecraft.client.gui.GuiIngame
+----------------------------
+
+renderGameOverlay(float )
+  Unable to fully structure code
+
+
+net.minecraft.client.gui.GuiOptions
+----------------------------
+
+initGui()
+  Unable to fully structure code
+
+
+net.minecraft.client.gui.GuiRepair
+----------------------------
+
+drawGuiContainerForegroundLayer(int int )
+  Unable to fully structure code
+
+
+net.minecraft.client.Minecraft
+----------------------------
+
+displayGuiScreen(net.minecraft.client.gui.GuiScreen )
+  Unable to fully structure code
+runGameLoop()
+  Unable to fully structure code
+
+
+net.minecraft.client.renderer.entity.RendererLivingEntity
+----------------------------
+
+renderModel(T float float float float float float )
+  Unable to fully structure code
+
+
+net.minecraft.client.renderer.RenderGlobal
+----------------------------
+
+renderEntities(net.minecraft.entity.Entity net.minecraft.client.renderer.culling.ICamera float )
+  Could not resolve type clashes
+  Unable to fully structure code
+
+
+net.minecraft.entity.item.EntityArmorStand
+----------------------------
+
+interactAt(net.minecraft.entity.player.EntityPlayer net.minecraft.util.Vec3 )
+  Unable to fully structure code
+
+
+net.minecraft.util.HttpUtil
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 9[WHILELOOP]
+
+
+lombok.launch.ShadowClassLoader
+----------------------------
+
+isPartOfShadowSuffixJarBased(java.lang.String java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 12[DOLOOP]
+
+
+com.google.common.util.concurrent.Futures
+----------------------------
+
+setOneValue(int java.util.concurrent.Future<? extends V> )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+run()
+  Loose catch block
+
+
+com.google.common.util.concurrent.Monitor
+----------------------------
+
+enterWhenUninterruptibly(com.google.common.util.concurrent.Monitor$Guard long java.util.concurrent.TimeUnit )
+  Loose catch block
+
+
+com.google.gson.internal.$Gson$Types
+----------------------------
+
+resolve(java.lang.reflect.Type java.lang.Class<?> java.lang.reflect.Type java.util.Map<java.lang.reflect.TypeVariable<?>, java.lang.reflect.Type> )
+  Unable to fully structure code
+
+
+com.mojang.realmsclient.gui.screens.RealmsUploadScreen
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[TRYBLOCK]], but top level block is 47[FORLOOP]
+
+
+org.apache.commons.io.filefilter.MagicNumberFileFilter
+----------------------------
+
+accept(java.io.File )
+  Loose catch block
+
+
+org.smartboot.socket.enhance.EnhanceAsynchronousServerChannel
+----------------------------
+
+doRead(boolean )
+  Unable to fully structure code
+
+
+org.apache.commons.lang3.text.ExtendedMessageFormat
+----------------------------
+
+readArgumentIndex(java.lang.String java.text.ParsePosition )
+  Unable to fully structure code
+
+
+com.jcraft.jorbis.Drft
+----------------------------
+
+dradfg(int int int int float[] float[] float[] float[] float[] float[] int )
+  Unable to fully structure code
+dradbg(int int int int float[] float[] float[] float[] float[] float[] int )
+  Unable to fully structure code
+
+
+paulscode.sound.codecs.CodecJOrbis
+----------------------------
+
+readBytes()
+  Unable to fully structure code
+
+
+org.apache.logging.log4j.core.config.plugins.ResolverUtil
+----------------------------
+
+loadImplementationsInJar(org.apache.logging.log4j.core.config.plugins.ResolverUtil$Test java.lang.String java.io.File )
+  Loose catch block
+
+
+org.apache.logging.log4j.core.net.ssl.TrustStoreConfiguration
+----------------------------
+
+load()
+  Loose catch block
+
+
+org.apache.commons.compress.archivers.ArchiveStreamFactory
+----------------------------
+
+createArchiveInputStream(java.io.InputStream )
+  Loose catch block
+
+
+org.apache.commons.compress.compressors.bzip2.BlockSort
+----------------------------
+
+fallbackSort(int[] byte[] int )
+  Unable to fully structure code
+
+
+com.ibm.icu.text.DecimalFormat
+----------------------------
+
+expandAffix(java.lang.String java.lang.String java.lang.StringBuffer boolean )
+  Unable to fully structure code
+applyPatternWithoutExpandAffix(java.lang.String boolean )
+  Unable to fully structure code
+
+
+com.ibm.icu.text.UnicodeSet
+----------------------------
+
+applyPropertyAlias(java.lang.String java.lang.String com.ibm.icu.text.SymbolTable )
+  Unable to fully structure code
+
+
+io.netty.handler.codec.MessageToMessageEncoder
+----------------------------
+
+write(io.netty.channel.ChannelHandlerContext java.lang.Object io.netty.channel.ChannelPromise )
+  Loose catch block
+
+
+io.netty.handler.codec.compression.SnappyFramedDecoder
+----------------------------
+
+decode(io.netty.channel.ChannelHandlerContext io.netty.buffer.ByteBuf java.util.List<java.lang.Object> )
+  Unable to fully structure code
+
+
+io.netty.handler.codec.ByteToMessageDecoder
+----------------------------
+
+channelRead(io.netty.channel.ChannelHandlerContext java.lang.Object )
+  Loose catch block
+
+
+io.netty.channel.epoll.EpollDatagramChannel
+----------------------------
+
+epollInReady()
+  Unable to fully structure code
+
+
+io.netty.util.concurrent.DefaultPromise
+----------------------------
+
+await0(long boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 10[MONITOR]
+
+
+io.netty.util.NetUtil
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+
+
+io.netty.util.internal.ThreadLocalRandom
+----------------------------
+
+getInitialSeedUniquifier()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [2[DOLOOP]], but top level block is 0[TRYBLOCK]
+
+
+io.netty.util.internal.chmv8.ForkJoinPool
+----------------------------
+
+tryHelpStealer(io.netty.util.internal.chmv8.ForkJoinPool$WorkQueue io.netty.util.internal.chmv8.ForkJoinTask<?> )
+  Unable to fully structure code
+tryTerminate(boolean boolean )
+  Unable to fully structure code
+
+
+org.lwjgl.opengl.LinuxCanvasImplementation
+----------------------------
+
+findVisualIDFromFormat(int org.lwjgl.opengl.PixelFormat )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+org.lwjgl.opengl.LinuxDisplay
+----------------------------
+
+getGammaRampLength()
+  Loose catch block
+
+
+de.gerrygames.viarewind.protocol.protocol1_8to1_9.storage.Windows
+----------------------------
+
+getBrewingItems(short )
+  Exception : java.lang.UnsupportedOperationException
+
+
+com.viaversion.viaversion.bukkit.handlers.BukkitEncodeHandler
+----------------------------
+
+encode(io.netty.channel.ChannelHandlerContext java.lang.Object io.netty.buffer.ByteBuf )
+  Unable to fully structure code
+
+
+com.viaversion.viaversion.libs.gson.internal.$Gson$Types
+----------------------------
+
+resolve(java.lang.reflect.Type java.lang.Class<?> java.lang.reflect.Type java.util.Map<java.lang.reflect.TypeVariable<?>, java.lang.reflect.Type> )
+  Unable to fully structure code
+
+
+com.viaversion.viaversion.libs.javassist.bytecode.CodeIterator
+----------------------------
+
+insertGap2w(byte[] int int boolean java.util.List<com.viaversion.viaversion.libs.javassist.bytecode.CodeIterator$Branch> com.viaversion.viaversion.libs.javassist.bytecode.CodeIterator$Pointers )
+  Unable to fully structure code
+
+
+com.viaversion.viaversion.sponge.handlers.SpongeEncodeHandler
+----------------------------
+
+encode(io.netty.channel.ChannelHandlerContext java.lang.Object io.netty.buffer.ByteBuf )
+  Unable to fully structure code
